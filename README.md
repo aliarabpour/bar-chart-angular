@@ -1,5 +1,5 @@
 # How to build it up? 
-Just downlad files to a folder | extract src.zip to src folder | open the folder with VS Code and run "npm install -g @angular/cli"
+Just downlad files to a folder | extract src.zip to src folder | open the folder with VS Code and run "npm install -g @angular/cli" to add node_modules folder
 
 # Linechart
 
